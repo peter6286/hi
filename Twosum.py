@@ -97,7 +97,7 @@ print(object.maxProfit(b))
 print(object.maximumProduct(b))
 print(object.plusOne([9]))
 print(object.plusOne([9]))
-print(object.plusOne([9]))
+print(object.plusOne([12]))
 
 
 
